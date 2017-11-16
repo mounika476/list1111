@@ -13,8 +13,7 @@ public class List2Set {
 		al.add(45);
 		al.add(12);
 		al.add(45);
-		al.add(0);
-		al.add(45);
+		
 		
 		System.out.println(al);
 		
